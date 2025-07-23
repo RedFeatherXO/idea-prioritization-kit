@@ -24,8 +24,8 @@ You have two options, choose whatever fits your workflow!
 ### For Notion Users
 Simply duplicate the templates into your own Notion workspace using the links below:
 
-- **[Duplicate the Idea Capture Template here](https://happy-cilantro-758.notion.site/Idea-Capture-Template-2391f4f7267480af9956ca5f5c9f4a67)**
-- **[Duplicate the Idea Rating Scorecard here](https://happy-cilantro-758.notion.site/Idea-Rating-Scorecard-2391f4f7267480508d4edce6b06e9d68)**
+- **<a href="https://happy-cilantro-758.notion.site/Idea-Capture-Template-2391f4f7267480af9956ca5f5c9f4a67" target="_blank" rel="noopener noreferrer">Duplicate the Idea Capture Template here</a>**
+- **<a href="https://happy-cilantro-758.notion.site/Idea-Rating-Scorecard-2391f4f7267480508d4edce6b06e9d68" target="_blank" rel="noopener noreferrer">Duplicate the Idea Rating Scorecard here</a>**
 
 ### For Markdown Users
 The raw `.md` files are right here in this repository. You can download them as a ZIP file or simply copy the content into your favorite editor (like Obsidian or VS Code).
